@@ -1,0 +1,17 @@
+export const habilidadesData = [
+  "HTML",
+  "MaterialUI",
+  "Bootstrap",
+  "Figma",
+  "Javascript",
+  "CSS",
+  "React",
+  "Python",
+  "Ubuntu",
+  "AWS",
+  "Git",
+  "Firebase",
+  "Nginx",
+  "MySQL",
+  "css",
+];

@@ -1,0 +1,9 @@
+export { default as Footer } from "./Footer/Footer";
+export { default as Landing } from "./Landing/Landing";
+export { default as Info } from "./Info/Info";
+export { default as Habilidades } from "./Habilidades/Habilidades";
+export { default as Educacion } from "./Educacion/Educacion";
+export { default as Experiencia } from "./Experiencia/Experiencia";
+export { default as Servicios } from "./Servicios/Servicio";
+export { default as SingleServicio } from "./Servicios/SingleServicio/SingleServicio";
+export { default as Voluntariado } from "./Voluntariado/Voluntariado";
